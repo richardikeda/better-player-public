@@ -61,3 +61,5 @@
 - [Tiếng Việt](vi/README.md) · `vi`
 - [简体中文](zh_CN/README.md) · `zh_CN`
 - [繁體中文](zh_TW/README.md) · `zh_TW`
+
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)

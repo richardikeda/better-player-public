@@ -2,7 +2,7 @@
 
 # Better Player
 
-**[Português (Brasil)](./README.md) · [English](./languages/en/README.md) · [Idiomas](./languages/README.md)**
+**[Português (Brasil)](./README.md) · [English](./languages/en/README.md) · [Other Languages](./languages/README.md)**
 
 Ajuste a velocidade e o volume dos vídeos do Instagram, repita trechos e baixe vídeos compatíveis.
 
@@ -31,3 +31,5 @@ Firefox e Safari usam canais próprios. A edição do Firefox está em testes.
 ## Suporte
 
 Abra o Instagram no navegador após instalar. Clique no ícone do Better Player para configurar os controles. Se precisar de ajuda, informe o navegador, a versão e os passos para reproduzir o problema.
+
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
