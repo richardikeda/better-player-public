@@ -34,4 +34,4 @@
 
 Μετά την εγκατάσταση, ανοίξτε το Instagram στο πρόγραμμα περιήγησής σας. Κάντε κλικ στο εικονίδιο Better Player για να διαμορφώσετε τα στοιχεία ελέγχου. Όταν αναφέρετε ένα πρόβλημα, συμπεριλάβετε το πρόγραμμα περιήγησής σας, την έκδοση και τα βήματα για την αναπαραγωγή του.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

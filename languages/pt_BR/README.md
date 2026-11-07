@@ -34,4 +34,4 @@ Firefox e Safari usam canais próprios de distribuição. A edição do Firefox 
 
 Após instalar, abra o Instagram no navegador. Clique no ícone do Better Player para configurar os controles. Ao relatar um problema, informe o navegador, a versão e os passos para reproduzi-lo.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

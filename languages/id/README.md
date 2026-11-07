@@ -34,4 +34,4 @@ Firefox dan Safari menggunakan saluran distribusi terpisah. Edisi Firefox sedang
 
 Setelah menginstal, buka Instagram di browser Anda. Klik ikon Better Player untuk mengonfigurasi kontrol. Saat melaporkan masalah, sertakan browser Anda, versinya, dan langkah-langkah untuk mereproduksinya.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

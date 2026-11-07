@@ -34,4 +34,4 @@ Firefox i Safari koriste zasebne distribucijske kanale. Izdanje Firefoxa je u fa
 
 Nakon instalacije otvorite Instagram u pregledniku. Pritisnite ikonu Better Player za konfiguraciju kontrola. Kada prijavljujete problem, navedite svoj preglednik, verziju i korake za njegovu reprodukciju.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

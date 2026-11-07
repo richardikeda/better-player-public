@@ -34,4 +34,4 @@ Firefox と Safari は別の配布チャネルを使用します。 Firefox 版�
 
 インストール後、ブラウザで Instagram を開きます。 Better Player アイコンをクリックしてコントロールを設定します。問題を報告するときは、使用しているブラウザ、バージョン、および問題を再現する手順を含めてください。
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

@@ -34,4 +34,4 @@ Toliau pateiktos naršyklės palaiko diegimą per „Chrome“ internetinę pard
 
 Įdiegę atidarykite „Instagram“ savo naršyklėje. Norėdami sukonfigūruoti valdiklius, spustelėkite piktogramą Better Player. Pranešdami apie problemą, nurodykite naršyklę, versiją ir jos atkūrimo veiksmus.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

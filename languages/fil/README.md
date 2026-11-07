@@ -34,4 +34,4 @@ Gumagamit ang Firefox at Safari ng magkahiwalay na mga channel ng pamamahagi. An
 
 Pagkatapos mag-install, buksan ang Instagram sa iyong browser. I-click ang icon na Better Player para i-configure ang mga kontrol. Kapag nag-uulat ng problema, isama ang iyong browser, bersyon, at mga hakbang upang muling gawin ito.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

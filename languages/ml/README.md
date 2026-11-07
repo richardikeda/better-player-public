@@ -34,4 +34,4 @@ Instagram വീഡിയോകളുടെ വേഗവും ശബ്ദവ�
 
 ഇൻസ്റ്റാൾ ചെയ്ത ശേഷം, നിങ്ങളുടെ ബ്രൗസറിൽ Instagram തുറക്കുക. നിയന്ത്രണങ്ങൾ കോൺഫിഗർ ചെയ്യാൻ ബെറ്റർ പ്ലെയർ ഐക്കണിൽ ക്ലിക്ക് ചെയ്യുക. ഒരു പ്രശ്നം റിപ്പോർട്ടുചെയ്യുമ്പോൾ, നിങ്ങളുടെ ബ്രൗസറും പതിപ്പും അത് പുനർനിർമ്മിക്കാനുള്ള ഘട്ടങ്ങളും ഉൾപ്പെടുത്തുക.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

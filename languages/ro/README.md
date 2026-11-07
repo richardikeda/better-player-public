@@ -34,4 +34,4 @@ Firefox și Safari folosesc canale de distribuție separate. Ediția Firefox est
 
 După instalare, deschide Instagram în browser. Faceți clic pe pictograma Better Player pentru a configura comenzile. Când raportați o problemă, includeți browserul, versiunea și pașii pentru a o reproduce.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

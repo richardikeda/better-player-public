@@ -34,4 +34,4 @@ Firefox మరియు Safari ప్రత్యేక పంపిణీ మ�
 
 ఇన్‌స్టాల్ చేసిన తర్వాత, మీ బ్రౌజర్‌లో Instagram తెరవండి. నియంత్రణలను కాన్ఫిగర్ చేయడానికి బెటర్ ప్లేయర్ చిహ్నాన్ని క్లిక్ చేయండి. సమస్యను నివేదించేటప్పుడు, మీ బ్రౌజర్, సంస్కరణ మరియు దాన్ని పునరుత్పత్తి చేసే దశలను చేర్చండి.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

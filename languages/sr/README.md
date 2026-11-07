@@ -34,4 +34,4 @@
 
 Након инсталације, отворите Инстаграм у свом претраживачу. Кликните на икону Беттер Плаиер да бисте конфигурисали контроле. Када пријављујете проблем, наведите свој прегледач, верзију и кораке да га репродукујете.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

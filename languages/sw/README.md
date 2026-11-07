@@ -34,4 +34,4 @@ Firefox na Safari hutumia njia tofauti za usambazaji. Toleo la Firefox liko kwen
 
 Baada ya kusakinisha, fungua Instagram kwenye kivinjari chako. Bofya ikoni ya Kicheza Bora ili kusanidi vidhibiti. Unaporipoti tatizo, jumuisha kivinjari chako, toleo na hatua za kulizalisha tena.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

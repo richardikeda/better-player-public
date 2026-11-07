@@ -34,4 +34,4 @@ Firefox ve Safari ayrı dağıtım kanalları kullanır. Firefox sürümü test 
 
 Kurulumdan sonra tarayıcınızda Instagram'ı açın. Kontrolleri yapılandırmak için Better Player simgesine tıklayın. Bir sorunu bildirirken tarayıcınızı, sürümünüzü ve sorunu yeniden oluşturmak için gereken adımları ekleyin.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

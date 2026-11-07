@@ -34,4 +34,4 @@ Firefox dan Safari menggunakan saluran pengedaran yang berasingan. Edisi Firefox
 
 Selepas memasang, buka Instagram dalam penyemak imbas anda. Klik ikon Better Player untuk mengkonfigurasi kawalan. Apabila melaporkan masalah, sertakan penyemak imbas anda, versi dan langkah untuk mengeluarkannya semula.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

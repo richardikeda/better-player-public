@@ -34,4 +34,4 @@ Firefox i Safari korzystają z oddzielnych kanałów dystrybucji. Wersja Firefok
 
 Po instalacji otwórz Instagram w swojej przeglądarce. Kliknij ikonę Better Player, aby skonfigurować sterowanie. Zgłaszając problem, podaj nazwę przeglądarki, wersję i kroki, aby go odtworzyć.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

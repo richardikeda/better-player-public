@@ -34,4 +34,4 @@ Firefox і Safari використовують окремі канали роз�
 
 Після встановлення відкрийте Instagram у своєму браузері. Натисніть піктограму Better Player, щоб налаштувати елементи керування. Повідомляючи про проблему, вкажіть свій браузер, версію та кроки для її відтворення.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

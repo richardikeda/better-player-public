@@ -34,4 +34,4 @@ Firefox i Safari utilitzen canals de distribució separats. L'edició de Firefox
 
 Després de la instal·lació, obriu Instagram al vostre navegador. Feu clic a la icona Better Player per configurar els controls. Quan informeu d'un problema, incloeu el vostre navegador, la versió i els passos per reproduir-lo.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

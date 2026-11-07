@@ -34,4 +34,4 @@ Instagram வீடியோக்களின் வேகத்தையும
 
 நிறுவிய பின், உங்கள் உலாவியில் Instagram ஐ திறக்கவும். கட்டுப்பாடுகளை உள்ளமைக்க பெட்டர் பிளேயர் ஐகானைக் கிளிக் செய்யவும். சிக்கலைப் புகாரளிக்கும் போது, ​​உங்கள் உலாவி, பதிப்பு மற்றும் அதை மீண்டும் உருவாக்குவதற்கான படிகளைச் சேர்க்கவும்.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

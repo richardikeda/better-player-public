@@ -34,4 +34,4 @@ Firefox 和 Safari 使用不同的發行管道。 Firefox 版本正在測試中�
 
 安裝後，在瀏覽器中開啟 Instagram。按一下「更好的播放器」圖示以配置控制項。回報問題時，請提供您的瀏覽器、版本以及重現問題的步驟。
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

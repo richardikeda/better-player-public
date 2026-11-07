@@ -36,6 +36,6 @@
 
 پس از نصب، اینستاگرام را در مرورگر خود باز کنید. روی نماد Better Player کلیک کنید تا کنترل ها را پیکربندی کنید. هنگام گزارش مشکل، مرورگر، نسخه و مراحل بازتولید آن را درج کنید.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)
 
 </div>

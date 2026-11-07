@@ -34,4 +34,4 @@ Instagram ವೀಡಿಯೊಗಳ ವೇಗ ಮತ್ತು ಧ್ವನಿಮ�
 
 ಸ್ಥಾಪಿಸಿದ ನಂತರ, ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ Instagram ತೆರೆಯಿರಿ. ನಿಯಂತ್ರಣಗಳನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಲು ಬೆಟರ್ ಪ್ಲೇಯರ್ ಐಕಾನ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ. ಸಮಸ್ಯೆಯನ್ನು ವರದಿ ಮಾಡುವಾಗ, ನಿಮ್ಮ ಬ್ರೌಸರ್, ಆವೃತ್ತಿ ಮತ್ತು ಅದನ್ನು ಪುನರುತ್ಪಾದಿಸುವ ಹಂತಗಳನ್ನು ಸೇರಿಸಿ.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

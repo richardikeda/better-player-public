@@ -34,4 +34,4 @@ Firefox un Safari izmanto atsevišķus izplatīšanas kanālus. Firefox izdevums
 
 Pēc instalēšanas pārlūkprogrammā atveriet Instagram. Noklikšķiniet uz ikonas Better Player, lai konfigurētu vadīklas. Ziņojot par problēmu, norādiet savu pārlūkprogrammu, versiju un darbības, lai to atveidotu.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

@@ -34,4 +34,4 @@
 
 ከጫኑ በኋላ Instagram ን በአሳሽዎ ውስጥ ይክፈቱ። መቆጣጠሪያዎቹን ለማዋቀር የተሻለ ተጫዋች አዶን ጠቅ ያድርጉ። ችግርን በሚዘግቡበት ጊዜ አሳሽዎን፣ ሥሪትዎን እና እሱን ለማባዛት ደረጃዎችን ያካትቱ።
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

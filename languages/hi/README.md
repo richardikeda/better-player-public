@@ -34,4 +34,4 @@ Instagram वीडियो की गति और आवाज़ बदल�
 
 इंस्टॉल करने के बाद अपने ब्राउज़र में इंस्टाग्राम खोलें। नियंत्रणों को कॉन्फ़िगर करने के लिए बेहतर प्लेयर आइकन पर क्लिक करें। किसी समस्या की रिपोर्ट करते समय, अपना ब्राउज़र, संस्करण और उसे पुन: उत्पन्न करने के चरण शामिल करें।
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

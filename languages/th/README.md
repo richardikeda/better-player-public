@@ -34,4 +34,4 @@ Firefox และ Safari ใช้ช่องทางการจัดจำ�
 
 หลังจากติดตั้งแล้ว ให้เปิด Instagram ในเบราว์เซอร์ของคุณ คลิกไอคอน Better Player เพื่อกำหนดค่าการควบคุม เมื่อรายงานปัญหา ให้ระบุเบราว์เซอร์ เวอร์ชัน และขั้นตอนในการทำซ้ำ
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

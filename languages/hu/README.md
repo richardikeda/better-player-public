@@ -34,4 +34,4 @@ A Firefox és a Safari külön terjesztési csatornákat használ. A Firefox kia
 
 A telepítés után nyissa meg az Instagramot a böngészőjében. Kattintson a Better Player ikonra a vezérlők konfigurálásához. Probléma bejelentésekor adja meg böngészőjét, verzióját és a reprodukálásához szükséges lépéseket.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

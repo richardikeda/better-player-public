@@ -34,4 +34,4 @@ Instagram ভিডিওর গতি ও শব্দ নিয়ন্ত্
 
 ইনস্টল করার পরে, আপনার ব্রাউজারে Instagram খুলুন। নিয়ন্ত্রণগুলি কনফিগার করতে বেটার প্লেয়ার আইকনে ক্লিক করুন। একটি সমস্যা প্রতিবেদন করার সময়, আপনার ব্রাউজার, সংস্করণ এবং এটি পুনরুত্পাদন করার পদক্ষেপগুলি অন্তর্ভুক্ত করুন৷
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

@@ -34,4 +34,4 @@ Firefox og Safari bruger separate distributionskanaler. Firefox-udgaven er i tes
 
 Efter installationen skal du åbne Instagram i din browser. Klik på Better Player-ikonet for at konfigurere kontrollerne. Når du rapporterer et problem, skal du inkludere din browser, version og trin til at genskabe det.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

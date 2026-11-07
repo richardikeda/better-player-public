@@ -34,4 +34,4 @@ Firefox 和 Safari 使用不同的分发渠道。 Firefox 版本正在测试中�
 
 安装后，在浏览器中打开 Instagram。单击“更好的播放器”图标以配置控件。报告问题时，请提供您的浏览器、版本以及重现该问题的步骤。
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

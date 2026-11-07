@@ -34,4 +34,4 @@ Firefox en Safari gebruiken aparte distributiekanalen. De Firefox-editie wordt m
 
 Open na de installatie Instagram in uw browser. Klik op het Better Player-pictogram om de besturingselementen te configureren. Wanneer u een probleem meldt, vermeld dan uw browser, versie en stappen om het probleem te reproduceren.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

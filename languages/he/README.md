@@ -36,6 +36,6 @@ Firefox ו-Safari משתמשים בערוצי הפצה נפרדים. מהדור�
 
 לאחר ההתקנה, פתח את אינסטגרם בדפדפן שלך. לחץ על הסמל Better Player כדי להגדיר את הפקדים. בעת דיווח על בעיה, כלול את הדפדפן, הגרסה והשלבים לשחזור שלה.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)
 
 </div>

@@ -34,4 +34,4 @@ Firefox a Safari používají samostatné distribuční kanály. Edice Firefoxu 
 
 Po instalaci otevřete Instagram ve svém prohlížeči. Klepnutím na ikonu Better Player nakonfigurujte ovládací prvky. Při hlášení problému uveďte svůj prohlížeč, verzi a kroky k jeho reprodukci.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

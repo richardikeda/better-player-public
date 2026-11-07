@@ -34,4 +34,4 @@ Firefox und Safari nutzen separate Vertriebskanäle. Die Firefox-Edition befinde
 
 Öffnen Sie nach der Installation Instagram in Ihrem Browser. Klicken Sie auf das Better Player-Symbol, um die Steuerelemente zu konfigurieren. Wenn Sie ein Problem melden, geben Sie Ihren Browser, Ihre Version und die Schritte zur Reproduktion an.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

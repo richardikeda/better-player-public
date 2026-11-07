@@ -34,4 +34,4 @@ Firefox in Safari uporabljata ločene distribucijske kanale. Različica Firefoxa
 
 Po namestitvi odprite Instagram v brskalniku. Kliknite ikono Better Player, da konfigurirate kontrole. Ko prijavite težavo, vključite svoj brskalnik, različico in korake za njeno reprodukcijo.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

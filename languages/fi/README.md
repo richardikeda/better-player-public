@@ -34,4 +34,4 @@ Firefox ja Safari käyttävät erillisiä jakelukanavia. Firefox-versio on testa
 
 Asennuksen jälkeen avaa Instagram selaimessasi. Napsauta Better Player -kuvaketta määrittääksesi säätimet. Kun ilmoitat ongelmasta, ilmoita selaimesi, versiosi ja vaiheet sen toistamiseksi.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

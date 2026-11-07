@@ -34,4 +34,4 @@ Firefox и Safari используют отдельные каналы расп�
 
 После установки откройте Instagram в браузере. Нажмите значок «Лучший игрок», чтобы настроить элементы управления. Сообщая о проблеме, укажите свой браузер, версию и действия по ее воспроизведению.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

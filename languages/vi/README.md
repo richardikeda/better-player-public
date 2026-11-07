@@ -34,4 +34,4 @@ Firefox và Safari sử dụng các kênh phân phối riêng biệt. Phiên b�
 
 Sau khi cài đặt, hãy mở Instagram trong trình duyệt của bạn. Nhấp vào biểu tượng Better Player để định cấu hình các điều khiển. Khi báo cáo sự cố, hãy bao gồm trình duyệt, phiên bản và các bước để tái tạo sự cố.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

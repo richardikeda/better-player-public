@@ -36,6 +36,6 @@
 
 بعد التثبيت، افتح Instagram في متصفحك. انقر فوق أيقونة Better Player لتكوين عناصر التحكم. عند الإبلاغ عن مشكلة، قم بتضمين المتصفح والإصدار والخطوات اللازمة لإعادة إنتاجها.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)
 
 </div>

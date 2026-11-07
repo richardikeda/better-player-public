@@ -34,4 +34,4 @@ Instagram व्हिडिओचा वेग आणि आवाज बदल
 
 स्थापित केल्यानंतर, आपल्या ब्राउझरमध्ये Instagram उघडा. नियंत्रणे कॉन्फिगर करण्यासाठी Better Player चिन्हावर क्लिक करा. समस्येचा अहवाल देताना, तुमचा ब्राउझर, आवृत्ती आणि ती पुनरुत्पादित करण्यासाठी पायऱ्या समाविष्ट करा.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

@@ -34,4 +34,4 @@ Instagram વિડિયોની ગતિ અને અવાજ બદલો
 
 ઇન્સ્ટોલ કર્યા પછી, તમારા બ્રાઉઝરમાં Instagram ખોલો. નિયંત્રણોને ગોઠવવા માટે બેટર પ્લેયર આયકન પર ક્લિક કરો. સમસ્યાની જાણ કરતી વખતે, તમારું બ્રાઉઝર, સંસ્કરણ અને તેને પુનઃઉત્પાદિત કરવાનાં પગલાં શામેલ કરો.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)

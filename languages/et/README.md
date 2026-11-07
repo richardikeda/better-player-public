@@ -34,4 +34,4 @@ Firefox ja Safari kasutavad eraldi turustuskanaleid. Firefoxi väljaanne on test
 
 Pärast installimist avage brauseris Instagram. Juhtelementide konfigureerimiseks klõpsake ikooni Better Player. Probleemist teatades lisage oma brauser, versioon ja toimingud selle taasesitamiseks.
 
-[GitHub Issues](https://github.com/richardikeda/better-player-public/issues)
+[GitHub Issues](https://github.com/richardikeda/better-player-public/issues) · [mzhe6xb4h@mozmail.com](mailto:mzhe6xb4h@mozmail.com)
